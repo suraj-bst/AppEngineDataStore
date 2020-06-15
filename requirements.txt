@@ -1,0 +1,5 @@
+flask==1.1.2
+psycopg2==2.8.3
+psycopg2-binary==2.8.3
+play_scraper
+google-cloud-datastore==1.12.0

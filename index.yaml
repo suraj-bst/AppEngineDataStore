@@ -1,0 +1,10 @@
+indexes:
+- kind: App
+  properties:
+  - name: app_id
+    direction: desc
+
+- kind: App
+  properties:
+  - name: app_id
+    direction: asc    
